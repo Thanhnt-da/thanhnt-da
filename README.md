@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning SQL, Python, PowerBI
+📫 How to reach me: nguyentruongthanh1802@gmail.com
 <!--
 **Thanhnt-da/thanhnt-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
